@@ -137,7 +137,7 @@ EKF tabanlı sensör füzyonu, dead reckoning'e kıyasla önemli ölçüde daha 
 - Sensör gürültüsü yüksek olduğunda EKF performansı düşebilir
 - Dinamik engeller desteklenmemektedir (statik ortam)
 
-## 6. Kurulum ve Çalıştırma
+## 5. Kurulum ve Çalıştırma
 
 ### Gereksinimler
 
