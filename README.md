@@ -1,8 +1,6 @@
 # Sensör Füzyonu ve Lokalizasyon Kullanarak LiDAR Tabanlı Otonom Navigasyon
 
 **Ders:** Mobil Robotlar  
-**Öğrenci:** Hüseyin Büker  
-**Tarih:** Mayıs 2026
 
 ---
 
@@ -138,34 +136,6 @@ EKF tabanlı sensör füzyonu, dead reckoning'e kıyasla önemli ölçüde daha 
 - Çok kalabalık ortamlarda nadiren çarpışma yaşanabilir
 - Sensör gürültüsü yüksek olduğunda EKF performansı düşebilir
 - Dinamik engeller desteklenmemektedir (statik ortam)
-
----
-
-## 5. Kaynaklar ve Yapay Zeka Kullanım Beyanı
-
-### Yapay Zeka Kullanım Beyanı
-
-**Kullanılan yapay zeka araçları:** Claude (Anthropic)
-
-**Yapay zekanın kullanıldığı bölümler:**
-- Kalman Filtresi kodunun ilk taslağını oluşturma
-- Kod hatalarını bulma ve hata ayıklama sürecine destek olma
-- README ve rapor metninin dil açısından düzenlenmesine yardımcı olma
-
-**Öğrencinin kendi katkıları:**
-- Proje senaryosunu ve sistem mimarisini tasarlama
-- Kodları test etme, çalıştırma ve gerekli düzeltmeleri yapma
-- Sonuç grafikleri, hata analizi ve değerlendirme yorumlarını hazırlama
-
-### Kaynaklar
-
-[1] V. Ušinsks, M. Nowicki, A. Dzedzickis ve V. Bučinskas, "Sensor-fusion based navigation for autonomous mobile robot," *Sensors*, cilt 25, sayı 4, makale 1248, 2025, doi: 10.3390/s25041248.
-
-[2] Y. Ou, Y. Cai, Y. Sun ve T. Qin, "Autonomous navigation by mobile robot with sensor fusion based on deep reinforcement learning," *Sensors*, cilt 24, sayı 12, makale 3895, 2024, doi: 10.3390/s24123895.
-
-[3] B. Zhang ve C. Li, "The optimization and application research of the RRT-APF-based path planning algorithm," *Electronics*, cilt 13, sayı 24, makale 4963, 2024, doi: 10.3390/electronics13244963.
-
----
 
 ## 6. Kurulum ve Çalıştırma
 
